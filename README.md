@@ -1,3 +1,5 @@
+This app was compelete AI generated with [Same.new](https://same.new) and is not affiliated with admyralAI. Here is the link to the chat: [link](https://same.new/chat/clone-httpsadmyral-ai-0xwnsjnbeft)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
